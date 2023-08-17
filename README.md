@@ -21,5 +21,5 @@ JavaScript
 ## API
 The application uses the following API to fetch associated words:
 
-Thesaurus API: https://api.api-ninjas.com/v1/thesaurus
+Thesaurus API: https://api-ninjas.com/api/thesaurus
 
